@@ -1,0 +1,24 @@
+# Large data files
+*.zip
+fraudTest.csv
+credit_card_transaction_flow.csv
+test.csv
+train.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LibreOffice lock files
+.~lock.*
+
+# OS
+.DS_Store
+
+# Docs (optional, not needed in repo)
+*.docx

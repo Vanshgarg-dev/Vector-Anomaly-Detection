@@ -1,0 +1,217 @@
+Customer ID,Name,Surname,Gender,Birthdate,Transaction Amount,Date,Merchant Name,Category
+abc0001,Sean,Rodriguez,F,20-10-2002,2015.60,03-04-2023,Smith-Russell,Cosmetic
+def0002,Michelle,Phelps,F,24-10-1985,1234.54,17-07-2023,"Peck, Spence and Young",Travel
+ghi0003,Jacob,Williams,M,25-10-1981,1508.70,20-09-2023,Steele Inc,Clothing
+jkl0004,Nathan,Snyder,M,26-10-1977,1993.40,11-01-2023,"Wilson, Wilson and Russell",Cosmetic
+mno0005,Crystal,Knapp,F,02-11-1951,2349.80,13-06-2023,Palmer-Hinton,Electronics
+pqr0006,Monica,Bartlett,F,20-10-2001,1822.50,24-08-2023,"Tran, Torres and Joyce",Cosmetic
+&^*34qwe,Carol,White,F,10-10-1992,670000.00,20-07-2024,Global Enterprises,Other
+stu0007,Thomas,Shaw,M,26-10-1976,1478.80,30-08-2023,"Evans, Griffin and Torres",Cosmetic
+vwx0008,Kelsey,Pena,F,28-10-1968,2103.40,08-02-2023,Miller PLC,Cosmetic
+yzx0009,Denise,Porter,M,31-10-1957,1634.50,12-01-2023,Jackson-Morgan,Restaurant
+cde0010,Alexander,Richardson,F,27-10-1974,1256.70,07-06-2023,"Blake, Mays and Anderson",Clothing
+lmn0011,Kimberly,Ball,M,26-10-1976,1324.40,11-02-2023,"Miller, Walker and Bond",Travel
+nop0012,Hunter,Peters,M,28-10-1971,1897.70,24-09-2023,"Barker, Ortiz and Cox",Market
+@#45rty!,David,Black,M,18-03-1988,550000.00,12-08-2024,Future Tech,Other
+qrt0013,Julie,Russell,M,28-10-1968,2153.40,07-08-2023,Taylor-Morrow,Cosmetic
+xyz0014,Christopher,Harris,M,19-10-2004,1405.60,22-04-2023,Gonzalez-Hunter,Cosmetic
+uvw0015,Amber,Brown,M,19-10-2004,1678.90,10-04-2023,Underwood-Contreras,Cosmetic
+#$78fdsa,Frank,Clark,M,02-02-1980,480000.00,14-10-2024,Innovative Corp,Other
+rst0016,Amy,Pierce,F,29-10-1966,1239.80,05-01-2023,Rodriguez Ltd,Restaurant
+opq0017,Elizabeth,Barnes,F,31-10-1957,2341.20,28-02-2023,Wilson-Zavala,Market
+abc0018,Chad,Reese,M,30-10-1962,2114.30,22-04-2023,Hughes Inc,Market
+*&^56bnm,Eva,Green,F,30-11-1995,400000.00,01-09-2024,Zenith Solutions,Other
+ijk0019,Emily,Johnson,F,15-05-1990,1435.60,14-05-2023,Brown-Smith,Electronics
+lmn0020,Michael,Taylor,M,03-12-1988,1783.40,19-06-2023,Johnson and Sons,Clothing
+stu0021,Sarah,Anderson,F,22-07-1995,1246.70,02-07-2023,Davis Group,Travel
+nop0022,David,Wilson,M,09-03-1980,1872.30,08-08-2023,Martin-Thompson,Restaurant
+xyz0023,Jennifer,Thomas,F,17-11-1992,1984.50,15-09-2023,Clark Inc,Cosmetic
+def0024,Robert,Jackson,M,30-01-1975,2017.80,21-10-2023,White-Lee,Electronics
+ghi0025,Lisa,Harris,F,12-06-1987,1653.40,27-11-2023,Lewis-Moore,Market
+jkl0026,William,Martin,M,25-09-1983,1905.60,03-12-2023,Allen-Young,Clothing
+mno0027,Mary,Thompson,F,08-04-1991,1478.90,09-01-2024,Hall-Walker,Travel
+pqr0028,James,Garcia,M,14-08-1978,2013.40,15-02-2024,King-Wright,Restaurant
+stu0029,Patricia,Martinez,F,01-02-1986,1834.50,22-03-2024,Scott-Green,Cosmetic
+vwx0030,John,Robinson,M,19-12-1993,1345.60,28-04-2024,Baker-Hill,Electronics
+yzx0031,Linda,Clark,F,06-07-1982,1767.80,04-05-2024,Adams-Nelson,Market
+cde0032,Richard,Rodriguez,M,23-10-1989,2253.40,10-06-2024,Campbell-Mitchell,Clothing
+lmn0033,Barbara,Lewis,F,11-05-1977,1982.30,16-07-2024,Roberts-Carter,Travel
+nop0034,Charles,Lee,M,28-03-1996,1544.50,22-08-2024,Phillips-Evans,Restaurant
+qrt0035,Elizabeth,Walker,F,05-01-1984,1705.60,28-09-2024,Turner-Parker,Cosmetic
+xyz0036,Joseph,Hall,M,20-09-1979,1827.80,04-10-2024,Collins-Edwards,Electronics
+uvw0037,Margaret,Allen,F,07-06-1994,2014.50,10-11-2024,Morris-Stewart,Market
+rst0038,Thomas,Young,M,15-11-1981,2156.70,16-12-2024,Murphy-Rogers,Clothing
+opq0039,Dorothy,Hernandez,F,02-08-1988,1754.60,22-01-2025,Cook-Bell,Travel
+abc0040,Daniel,King,M,18-04-1993,1493.40,28-02-2025,Morgan-Cooper,Restaurant
+ijk0041,Nancy,Wright,F,25-12-1976,2007.80,06-03-2025,Peterson-Bailey,Cosmetic
+lmn0042,Paul,Lopez,M,09-07-1985,1456.70,12-04-2025,Reed-Rivera,Electronics
+stu0043,Karen,Hill,F,16-02-1990,2193.40,18-05-2025,Cox-Gomez,Market
+nop0044,Mark,Scott,M,31-10-1983,1357.80,24-06-2025,Diaz-Hayes,Clothing
+xyz0045,Betty,Green,F,13-05-1978,1785.60,30-07-2025,Foster-Sanders,Travel
+def0046,Donald,Adams,M,29-01-1997,2023.40,05-08-2025,Myers-Price,Restaurant
+ghi0047,Helen,Baker,F,06-09-1987,1927.80,11-09-2025,Long-Barnes,Cosmetic
+jkl0048,George,Gonzalez,M,22-03-1982,1604.50,17-10-2025,Ross-Henderson,Electronics
+mno0049,Sandra,Nelson,F,08-11-1992,2403.40,23-11-2025,Coleman-Jenkins,Market
+pqr0050,Steven,Carter,M,17-06-1980,1378.90,29-12-2025,Perry-Powell,Clothing
+stu0051,Donna,Mitchell,F,03-01-1989,1805.60,04-01-2026,Hughes-Sullivan,Travel
+vwx0052,Edward,Perez,M,19-08-1975,1239.80,10-02-2026,Flores-Wood,Restaurant
+yzx0053,Carol,Roberts,F,26-04-1994,1472.30,16-03-2026,Butler-Watson,Cosmetic
+cde0054,Ronald,Turner,M,11-12-1981,2056.70,22-04-2026,Brooks-James,Electronics
+lmn0055,Ruth,Phillips,F,30-07-1986,1783.40,28-05-2026,Gonzalez-Johnson,Market
+nop0056,Beverly,Campbell,F,15-09-1987,1625.50,05-06-2026,Wood-Harvey,Clothing
+xyz0057,Jessica,Morris,F,21-02-1982,1544.20,17-07-2026,McDonald-Reed,Travel
+def0058,Anthony,Diaz,M,14-10-1995,2108.80,22-08-2026,Reed-Collins,Restaurant
+ghi0059,Charlotte,Rogers,F,02-05-1981,1327.60,29-09-2026,Martin-Fisher,Cosmetic
+jkl0060,Kevin,Reed,M,19-03-1989,1785.40,06-10-2026,Bailey-Perry,Electronics
+mno0061,Ashley,Alexander,F,30-12-1982,2045.30,12-11-2026,Hernandez-Henry,Market
+pqr0062,Robert,Hughes,M,15-10-1986,1954.80,18-12-2026,Cooper-Harris,Clothing
+stu0063,Melissa,Hernandez,F,01-04-1993,1609.40,24-01-2027,Dixon-Flores,Travel
+vwx0064,Jason,Gray,M,12-11-1974,1754.70,04-02-2027,Hayes-Moore,Restaurant
+xyz0065,Sarah,Russell,F,23-01-1985,1803.50,10-03-2027,Garcia-Jones,Cosmetic
+def0066,Daniel,Price,M,08-06-1983,1457.90,18-04-2027,White-Lewis,Electronics
+ghi0067,Laura,Reed,F,04-08-1980,1932.40,24-05-2027,Jackson-Baker,Market
+jkl0068,Karen,Collins,F,21-02-1976,1554.30,28-06-2027,Allen-Young,Clothing
+mno0069,David,Perry,M,26-07-1987,1437.60,02-07-2027,Morris-Campbell,Travel
+pqr0070,Joseph,Brown,M,31-10-1993,2005.80,12-08-2027,Cook-Bennett,Restaurant
+stu0071,Susan,Cook,F,11-12-1985,1867.20,18-09-2027,Harris-Scott,Cosmetic
+vwx0072,Michael,Cooper,M,09-09-1989,2108.40,24-10-2027,Phillips-Gonzalez,Electronics
+xyz0073,James,Murphy,M,05-03-1982,1726.50,30-11-2027,Morris-King,Market
+abc0074,Sharon,Roberts,F,15-05-1974,1395.80,08-12-2027,Scott-Moore,Clothing
+ijk0075,Angela,Brown,F,25-04-1989,2234.60,14-01-2028,Thomas-Hernandez,Travel
+lmn0076,George,Jenkins,M,30-08-1985,1544.70,22-02-2028,Garcia-Ross,Restaurant
+stu0077,Lisa,Reyes,F,06-10-1992,1789.60,03-03-2028,Davis-Jones,Cosmetic
+nop0078,Charles,Anderson,M,20-09-1984,1903.40,10-04-2028,Wilson-Morris,Electronics
+xyz0079,Betty,Moore,F,31-12-1989,1402.20,15-05-2028,Young-Cox,Market
+def0080,Sarah,Perry,F,04-08-1991,1258.30,30-06-2028,Martin-Jackson,Clothing
+ghi0081,Jason,Mitchell,M,22-11-1979,1954.70,07-07-2028,White-Gray,Travel
+jkl0082,Daniel,Roberts,M,13-05-1983,2014.90,14-08-2028,Cook-Edwards,Restaurant
+mno0083,Emily,Diaz,F,24-06-1995,1860.60,20-09-2028,Brown-Baker,Cosmetic
+pqr0084,Ronald,Johnson,M,16-02-1987,1494.80,01-10-2028,Morris-Parker,Electronics
+stu0085,Victoria,Rodriguez,F,02-03-1981,2156.20,24-11-2028,Evans-Carter,Market
+vwx0086,John,Brown,M,07-09-1982,1753.30,28-12-2028,Garcia-Smith,Clothing
+xyz0087,Olivia,Lee,F,19-01-1994,2207.50,04-01-2029,Walker-Taylor,Travel
+abc0088,Charles,King,M,25-04-1978,1876.90,12-02-2029,Morris-Hernandez,Restaurant
+ijk0089,Karen,Ramirez,F,14-08-1985,1492.40,21-03-2029,Perry-Brown,Cosmetic
+lmn0090,Kevin,Wright,M,16-10-1982,1728.60,30-04-2029,Cook-Williams,Electronics
+stu0091,Rebecca,Hall,F,28-09-1996,2012.30,14-05-2029,King-Perry,Market
+nop0092,John,Parker,M,20-12-1979,2345.70,02-06-2029,Scott-Thomas,Clothing
+xyz0093,Jessica,Torres,F,12-11-1992,2104.20,20-07-2029,Harris-Wright,Travel
+def0094,Mary,Bennett,F,14-04-1987,1584.40,09-08-2029,Young-Davis,Restaurant
+ghi0095,Thomas,Griffin,M,30-09-1985,1954.30,02-09-2029,Cook-Morris,Cosmetic
+jkl0096,Susan,Campbell,F,06-12-1988,2138.20,14-10-2029,Price-Hernandez,Electronics
+mno0097,Michael,White,M,19-01-1975,1842.50,20-11-2029,Brown-Jackson,Market
+pqr0098,Linda,Ramirez,F,25-06-1996,1925.30,15-12-2029,Young-Carter,Clothing
+stu0099,David,Watson,M,10-03-1984,1499.50,04-01-2030,Gonzalez-Bailey,Travel
+vwx0100,Jennifer,Diaz,F,20-05-1991,1756.80,12-02-2030,Garcia-Harris,Restaurant
+xyz0101,William,Garcia,M,28-10-1985,2103.60,28-03-2030,Morris-Cook,Cosmetic
+(*)&12abc,Ivy,Wilson,F,05-05-1995,700000.00,11-01-2024,Global Solutions,Other
+def0102,Barbara,Martinez,F,10-04-1992,1884.90,11-04-2030,Cook-Davis,Electronics
+ghi0103,Paul,Anderson,M,22-06-1987,1675.40,06-05-2030,Scott-Roberts,Market
+jkl0104,Susan,Clark,F,31-08-1976,2156.80,10-06-2030,Roberts-Miller,Clothing
+mno0105,Daniel,Lopez,M,25-12-1979,1523.30,22-07-2030,Hall-Ramirez,Travel
+pqr0106,Amy,Wright,F,18-11-1988,1743.20,08-08-2030,Johnson-Moore,Restaurant
+stu0107,Linda,Johnson,F,10-01-1990,1987.60,10-09-2030,Martin-Cook,Cosmetic
+vwx0108,Joseph,Hernandez,M,14-04-1979,2345.40,14-10-2030,Davis-King,Electronics
+xyz0109,Emily,Roberts,F,06-10-1995,1856.70,11-11-2030,Garcia-Williams,Market
+def0110,Donald,Anderson,M,25-01-1980,1490.20,24-12-2030,Lee-Robinson,Clothing
+%$#89qwe,Jack,Turner,M,19-09-1989,750000.00,18-02-2024,Smart Enterprises,Other
+ghi0111,Linda,Perez,F,22-03-1988,1794.80,22-01-2031,Scott-Garcia,Travel
+jkl0112,Joshua,Evans,M,30-09-1984,2234.60,14-02-2031,Brown-Harris,Restaurant
+mno0113,Ashley,White,F,09-07-1989,1504.70,30-03-2031,Perry-Gonzalez,Cosmetic
+pqr0114,James,Roberts,M,10-05-1993,1805.20,28-04-2031,Wilson-Moore,Electronics
+stu0115,Maria,Clark,F,30-11-1995,1980.90,01-06-2031,Johnson-Hernandez,Market
+vwx0116,Karen,Lee,F,19-08-1991,1853.50,15-07-2031,Davis-Ramirez,Clothing
+xyz0117,Kevin,Young,M,25-03-1987,1749.60,10-08-2031,Cooper-Perry,Travel
+def0118,John,Torres,M,11-02-1986,2210.30,14-09-2031,Cook-Wilson,Restaurant
+ghi0119,Susan,Hernandez,F,26-10-1993,1458.40,24-10-2031,Young-Jackson,Cosmetic
+jkl0120,Thomas,Martinez,M,09-01-1976,1584.90,10-11-2031,Scott-Davis,Electronics
+mno0121,Nancy,Johnson,F,05-05-1982,1967.60,02-12-2031,Garcia-Roberts,Market
+@!*45ert,Kate,Harris,F,09-10-1986,520000.00,30-03-2024,Innovatech,Other
+pqr0122,Charles,Anderson,M,29-12-1988,1751.80,08-01-2032,Davis-Moore,Clothing
+stu0123,Ashley,Wilson,F,18-04-1984,1405.50,14-02-2032,Johnson-Cook,Travel
+vwx0124,Jennifer,Hall,F,11-02-1981,2123.90,15-03-2032,Cook-Young,Restaurant
+xyz0125,David,Garcia,M,27-01-1975,1632.20,24-04-2032,Perry-Ramirez,Cosmetic
+def0126,Laura,Thompson,F,09-11-1989,1945.30,30-05-2032,Wilson-Brown,Electronics
+ghi0127,Michael,Anderson,M,22-09-1980,1897.90,14-06-2032,Scott-Hernandez,Market
+jkl0128,Rebecca,Williams,F,02-04-1990,1768.60,28-07-2032,Johnson-Young,Clothing
+mno0129,Joseph,Evans,M,08-05-1993,1457.20,19-08-2032,Morris-Gonzalez,Travel
+^&*90asdf,Penny,Baker,F,14-04-1990,530000.00,09-09-2024,NextGen Tech,Other
+pqr0130,Ashley,Lee,F,14-06-1994,2089.80,24-09-2032,Cook-Moore,Restaurant
+stu0131,Susan,Clark,F,22-07-1986,1895.40,14-10-2032,Davis-Roberts,Cosmetic
+vwx0132,Christopher,Lee,M,20-10-1994,2254.60,18-11-2032,Garcia-King,Electronics
+xyz0133,Nancy,Moore,F,25-03-1981,1789.20,12-12-2032,Wilson-Brown,Market
+def0134,William,Johnson,M,11-05-1987,1482.70,28-01-2033,Hernandez-Young,Clothing
+^&*23yui,Liam,Scott,M,03-06-1987,680000.00,24-04-2024,Future Vision,Other
+ghi0135,Emma,Brown,F,04-11-1985,2034.80,15-02-2033,Garcia-Davis,Travel
+jkl0136,Michael,Johnson,M,20-12-1991,1556.40,01-03-2033,Johnson-Morris,Restaurant
+mno0137,Karen,Garcia,F,19-06-1989,1990.30,08-04-2033,Walker-Perry,Cosmetic
+pqr0138,David,Smith,M,29-08-1980,1689.70,15-05-2033,Cook-Young,Electronics
+stu0139,John,Wright,M,22-04-1985,1475.40,03-06-2033,Cooper-Roberts,Market
+vwx0140,Victoria,Thomas,F,10-02-1986,2098.50,14-07-2033,Davis-Moore,Clothing
+xyz0141,Linda,Ramirez,F,19-12-1982,1747.80,30-08-2033,Young-King,Travel
+def0142,Michael,Johnson,M,25-01-1990,2233.40,10-09-2033,Scott-Brown,Restaurant
+ghi0143,Ashley,Wright,F,12-06-1983,1991.20,28-10-2033,Perry-Young,Cosmetic
+jkl0144,Thomas,Lee,M,30-11-1987,1755.90,14-11-2033,Cook-Scott,Electronics
+mno0145,Daniel,Hall,M,28-08-1986,1622.50,22-12-2033,Davis-Roberts,Market
+pqr0146,Karen,Lopez,F,21-09-1989,1550.80,06-01-2034,Wilson-Brown,Clothing
+stu0147,Emily,Walker,F,11-07-1980,1993.70,15-02-2034,Johnson-Moore,Travel
+vwx0148,John,Hernandez,M,02-10-1991,2128.40,24-03-2034,Cook-Roberts,Restaurant
+xyz0149,Jessica,Johnson,F,15-03-1986,1895.30,11-04-2034,Young-Ramirez,Cosmetic
+def0150,James,Brown,M,21-06-1992,1706.80,28-05-2034,Hernandez-Scott,Electronics
+ghi0151,Linda,Clark,F,25-04-1975,1981.70,20-06-2034,Cooper-Bennett,Market
+jkl0152,David,Garcia,M,15-12-1984,1576.90,14-07-2034,Young-Johnson,Clothing
+mno0153,Laura,Roberts,F,30-09-1994,1987.40,22-08-2034,Johnson-Scott,Travel
+pqr0154,Jason,Thompson,M,13-02-1995,2134.60,28-09-2034,Cook-Hernandez,Restaurant
+stu0155,Ashley,Wright,F,18-10-1986,1960.20,02-11-2034,Perry-Ramirez,Cosmetic
+vwx0156,Charles,Brown,M,22-09-1981,1470.80,01-12-2034,Davis-Moore,Electronics
+xyz0157,Sarah,Garcia,F,05-11-1994,2290.10,05-01-2035,Young-Scott,Market
+def0158,Daniel,Martinez,M,30-12-1990,1711.30,17-02-2035,Wilson-Cook,Clothing
+ghi0159,Amy,Evans,F,12-03-1983,1783.70,14-03-2035,Johnson-Walker,Travel
+jkl0160,Thomas,Brown,M,15-10-1982,1450.20,22-04-2035,Cook-Bennett,Restaurant
+mno0161,Victoria,Clark,F,18-07-1992,1952.50,12-05-2035,Garcia-Young,Cosmetic
+pqr0162,Robert,Lopez,M,20-06-1995,1763.90,01-06-2035,Johnson-Moore,Electronics
+stu0163,Linda,Smith,F,10-02-1981,1889.40,19-07-2035,Davis-Young,Market
+vwx0164,John,Wilson,M,01-04-1988,2174.60,02-08-2035,Cook-Ramirez,Clothing
+xyz0165,Angela,Moore,F,14-05-1983,1427.70,13-09-2035,Johnson-Bennett,Travel
+def0166,Michael,Johnson,M,29-07-1987,1635.50,26-10-2035,Scott-Young,Restaurant
+ghi0167,Nancy,Smith,F,22-02-1991,1856.30,04-11-2035,Perry-Roberts,Cosmetic
+#@!67fdsa,Mia,Young,F,17-11-1991,620000.00,28-05-2024,Dynamic Corp,Other
+jkl0168,David,Garcia,M,25-06-1975,2155.40,16-12-2035,Cook-Walker,Electronics
+mno0169,Ashley,Brown,F,20-10-1982,1781.70,14-01-2036,Johnson-Morris,Market
+pqr0170,William,Wright,M,04-09-1986,2038.80,24-02-2036,Davis-Scott,Clothing
+stu0171,Karen,Johnson,F,15-11-1989,1974.20,10-03-2036,Cook-Roberts,Travel
+vwx0172,Michael,Lee,M,30-12-1990,1662.10,01-04-2036,Wilson-Brown,Restaurant
+xyz0173,Jessica,Moore,F,12-02-1993,1550.80,05-05-2036,Johnson-Moore,Cosmetic
+def0174,Christopher,Clark,M,25-03-1985,2232.40,14-06-2036,Garcia-Davis,Electronics
+ghi0175,Ashley,Garcia,F,28-08-1988,1455.70,30-07-2036,Davis-Moore,Market
+jkl0176,Thomas,Martinez,M,11-10-1980,2094.10,14-08-2036,Cook-Hernandez,Clothing
+!@#45wqert,Owen,Campbell,M,21-08-1993,730000.00,19-08-2024,Innovation Hub,Other
+mno0177,Laura,Wilson,F,21-09-1991,1954.30,22-09-2036,Perry-Roberts,Travel
+pqr0178,James,Anderson,M,02-11-1985,1709.20,02-10-2036,Davis-Johnson,Restaurant
+stu0179,Nancy,Young,F,05-05-1994,1878.50,10-11-2036,Wilson-Cook,Cosmetic
+$%^12nbvc,Nina,King,F,29-03-1984,490000.00,02-07-2024,Tech Giants,Other
+vwx0180,Robert,Smith,M,15-01-1992,1682.70,25-12-2036,Johnson-Moore,Electronics
+xyz0181,Amy,Brown,F,30-04-1984,2223.10,18-01-2037,Garcia-Walker,Market
+def0182,Michael,Johnson,M,21-08-1985,1478.90,09-02-2037,Cook-Roberts,Clothing
+!@#12abc,Alice,Green,F,15-01-1990,450000.00,05-05-2024,XYZ Corporation,Other
+ghi0183,Susan,Martinez,F,25-03-1990,1999.60,30-03-2037,Davis-Ramirez,Travel
+jkl0184,David,Wilson,M,12-11-1986,1834.80,16-05-2037,Scott-Brown,Restaurant
+mno0185,Jessica,Smith,F,07-02-1993,1947.50,25-06-2037,Young-Gonzalez,Cosmetic
+*^&90ghj,Grace,Adams,F,25-07-1983,510000.00,03-11-2024,Tech Innovations,Other
+pqr0186,Kevin,Garcia,M,18-07-1980,1705.60,10-07-2037,Cook-Moore,Electronics
+stu0187,Ashley,Clark,F,14-05-1989,2056.40,16-08-2037,Davis-Young,Market
+vwx0188,Thomas,Thompson,M,21-08-1984,1520.10,22-09-2037,Wilson-Roberts,Clothing
+xyz0189,Emily,Martinez,F,15-09-1982,1985.20,30-10-2037,Johnson-Cook,Travel
+def0190,Joshua,Brown,M,28-02-1985,2130.30,01-11-2037,Cook-Young,Restaurant
+ghi0191,Laura,Lopez,F,30-06-1991,1468.80,05-12-2037,Garcia-Wilson,Cosmetic
+jkl0192,Daniel,Thompson,M,18-03-1993,2224.90,10-01-2038,Cook-Johnson,Electronics
+mno0193,Amy,Johnson,F,15-10-1981,1567.70,18-02-2038,Davis-Moore,Market
+pqr0194,John,Brown,M,28-04-1989,1701.20,03-03-2038,Davis-Ramirez,Clothing
+!@34hjkl,Henry,Lee,M,11-12-1975,600000.00,21-12-2024,Elite Services,Other
+stu0195,Michael,Clark,M,07-12-1988,2119.40,12-04-2038,Johnson-Young,Travel
+$%78jkl*,Bob,Brown,M,22-06-1985,320000.00,15-06-2024,ABC Industries,Other
+vwx0196,Emily,Martinez,F,21-11-1985,1935.70,25-05-2038,Cook-Wilson,Restaurant
+xyz0197,Charles,Wright,M,14-04-1994,1564.20,12-06-2038,Garcia-Moore,Cosmetic
+def0198,Rebecca,Smith,F,19-01-1990,1761.30,30-07-2038,Davis-Scott,Electronics
+ghi0199,David,Williams,M,25-12-1982,2079.40,24-08-2038,Young-Brown,Market
+jkl0200,Angela,Johnson,F,14-05-1988,1450.10,20-09-2038,Cook-Roberts,Clothing
