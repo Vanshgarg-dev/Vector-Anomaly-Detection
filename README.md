@@ -72,3 +72,6 @@ Traditional anomaly detection often requires labeled datasets or statistical ass
 - **Cold-start scenarios** where labeled anomaly data doesn't exist
 - **Mixed-type datasets** where statistical methods struggle
 - **Exploratory analysis** to quickly surface unexpected patterns
+
+### In collaboration with [Superteams.ai](https://www.superteams.ai/)
+
